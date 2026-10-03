@@ -1,3 +1,3 @@
 # Init
 
-This is the official blog page of Apich Organization.
+This is the start of the official blog page of Apich Organization.
